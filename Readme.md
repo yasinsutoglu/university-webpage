@@ -7,7 +7,7 @@
 ## ✨ Demo
 
 <p align="center">
-  <img width="700" align="center" src="" alt="demo"/>
+  <img width="700" align="center" src="https://recordit.co/P4F0zpRieM" alt="demo"/>
 </p>
 
 <hr>
