@@ -6,10 +6,11 @@
 
 ## ✨ Demo
 
-<p align="center">
-  <!-- <img width="700" align="center" src="" alt="demo"/> -->
-   ![ Alt text](https://recordit.co/P4F0zpRieM) 
-</p>
+<!-- <p align="center">
+  <img width="700" align="center" src="" alt="demo"/>   
+</p> -->
+
+![ Alt text](https://recordit.co/P4F0zpRieM) 
 
 <hr>
 
