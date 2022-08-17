@@ -1,7 +1,8 @@
 <h1 align="center">University-Webpage👩‍🎓👨‍🎓</h1>
 
-
-> CLI that generates beautiful README.md files.<br /> `readme-md-generator` will suggest you default answers by reading your `package.json` and `git` configuration.
+<h3>Overview</h3>
+👨‍💻 In this project I mastered division and responsive skills.I used mainly HTML and CSS. You can see visual demo of the website below. The objective is to build out this real-like webpage and make it looking as professional design of one univesity as possible..
+<hr>
 
 ## ✨ Demo
 
@@ -11,12 +12,10 @@
   <img width="700" align="center" src="https://user-images.githubusercontent.com/9840435/60266022-72a82400-98e7-11e9-9958-f9004c2f97e1.gif" alt="demo"/>
 </p>
 
-Generated `README.md`:
 
-<p align="center">
-  <img width="700" src="https://user-images.githubusercontent.com/9840435/60266090-9cf9e180-98e7-11e9-9cac-3afeec349bbc.jpg" alt="cli output"/>
-</p>
 
+<!-- ------------------------------------------------------ -->
+<!-- 
 Example of `package.json` with good meta data:
 
 ```json
@@ -40,7 +39,9 @@ Example of `package.json` with good meta data:
     "node": ">=9.3.0"
   }
 }
-```
+``` -->
+
+<!-- --------------------------------------- -->
 
 ## 🚀 Usage
 
