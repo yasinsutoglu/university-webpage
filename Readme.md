@@ -10,7 +10,7 @@
   <img width="700" align="center" src="" alt="demo"/>   
 </p> -->
 
-![ Alt text](https://recordit.co/P4F0zpRieM) 
+![Alt text](https://recordit.co/P4F0zpRieM) 
 
 <hr>
 
