@@ -7,7 +7,8 @@
 ## ✨ Demo
 
 <p align="center">
-  <img width="700" align="center" src="./university.mp4" alt="demo"/>
+  <img width="700" align="center" src="" alt="demo"/>
+   ![ Alt text](https://recordit.co/P4F0zpRieM) 
 </p>
 
 <hr>
