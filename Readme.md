@@ -7,7 +7,7 @@
 ## ✨ Demo
 
 <p align="center">
-  <img width="700" align="center" src="https://recordit.co/P4F0zpRieM" alt="demo"/>
+  <img width="700" align="center" src="https://s3.amazonaws.com/img0.recordit.co/P4F0zpRieM.mp4?AWSAccessKeyId=AKIAUQ5RURZ7ND2T2B6I&Expires=1660718253&Signature=%2B0o8qaIsmClmA%2FM35AVWg%2FFSFeY%3D" alt="demo"/>
 </p>
 
 <hr>
