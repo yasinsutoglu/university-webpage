@@ -13,7 +13,6 @@
 <hr>
 
 [📍click here to see page](https://yasinsutoglu.github.io/university-webpage/)
-)
 
 <!-- ------------------------------------------------------ -->
 
@@ -50,7 +49,7 @@ univers,ty-web-page (directory)
 <!-- --------------------------------------- -->
 ### Purpose of Project;
 
-👨‍💻 The main aim of this project is to improve my <b>HTML/CSS/git commands (push, pull, commit, add etc.) skills and ©️cloning abilities</b>.
+👨‍💻 The main aim of this project is to improve my <b>HTML/CSS/git commands (push, pull, commit, add etc.) skills and responsive design abilities</b>.
 
 <center> ⌛ Happy Coding  ✍ </center>
 
@@ -61,13 +60,13 @@ univers,ty-web-page (directory)
 
 ### The project covers;
 
-- HTML 
+- HTML / Semantic elements - Fontawesome
 
-- List Properties-Tables / CSS-The Display Property-The position Property
+- CSS /The Display Property-The position Property
 
-- Overflow Property-The float Property-Opacity / Transparency-Units in CSS
+- The float Property-Opacity - Transparency-Units in CSS
 
-- CSS Setting height and width-CSS Outline-CSS Combinators
+- CSS Setting height and width-CSS Outline-CSS Combinators - GoogleFonts
 
 ### At the end of the project, i will be able to;
 
@@ -84,7 +83,7 @@ univers,ty-web-page (directory)
 <hr>
 <h3>How to Use the Project</h3>
 <span>First download a code editor </span>
-<br><span>Second open the files : </span><a href='https://github.com/BAVI-BOOP/tea-cozy-website'>My Docs</a>
+<br><span>Second open the files : </span><a href='https://github.com/yasinsutoglu/university-webpage'>My Docs</a>
 <br><span>You can use this tutorial : </span><a href='https://www.youtube.com/watch?v=fJEbVCrEMSE'>VS Code tutorial</a>
 
 <!-- ------------------------------------------------------------------------- -->
