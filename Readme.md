@@ -12,7 +12,7 @@
 
 <hr>
 
-[📍click here to see page](https://react-smilga-nlxkloc8w-yaserdemet.vercel.app
+[📍click here to see page](https://yasinsutoglu.github.io/university-webpage/)
 )
 
 <!-- ------------------------------------------------------ -->
