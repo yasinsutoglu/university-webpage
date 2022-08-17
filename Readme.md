@@ -5,12 +5,12 @@
 <hr>
 
 ## ✨ Demo
-
+<!-- 
  <p align="center">
   <img width="700" align="center" src="http://g.recordit.co/P4F0zpRieM.gif" alt="demo"/>   
-</p>
+</p> -->
 
-<!-- ![Alt text]()  -->
+![Alt text](http://g.recordit.co/P4F0zpRieM.gif) 
 
 <hr>
 
