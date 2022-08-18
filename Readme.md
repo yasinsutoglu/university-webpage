@@ -27,10 +27,10 @@ univers,ty-web-page (directory)
 |----images              
         |----about.png   
         |----background.png
-		    |----banner.png
-		    |----banner2.png
-		    |----basketball.jpg
-		    |----cafeteria.png
+	|----banner.png	
+	|----banner2.png
+	|----basketball.jpg
+	|----cafeteria.png
         |----certificate.jpg
         |----library.png
         |----logo.png
