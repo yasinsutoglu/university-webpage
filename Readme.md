@@ -7,7 +7,7 @@
 ## ✨ Demo
 
  <p align="center">
-  <img width="700" align="center" src="./imgs/university.gif" alt="demo"/>   
+  <img width="700" align="center" src="./imgs/university1.gif" alt="demo"/>   
 </p>
 
 <!-- ![Alt text]()  -->
