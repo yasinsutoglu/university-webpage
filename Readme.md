@@ -7,7 +7,7 @@
 ## ✨ Demo
 
  <p align="center">
-  <img width="700" align="center" src="https://ezgif.com/video-to-webp/ezgif-5-d74dcc97cc14.mp4" alt="demo"/>   
+  <img width="700" align="center" src="./imgs/university.gif" alt="demo"/>   
 </p>
 
 <!-- ![Alt text]()  -->
